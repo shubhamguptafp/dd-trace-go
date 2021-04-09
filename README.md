@@ -5,7 +5,7 @@
 ### Installing
 
 ```bash
-go get gopkg.in/DataDog/dd-trace-go.v1/...
+go get github.com/shubhamguptafp/dd-trace-go...
 ```
 
 Requires:
